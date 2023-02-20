@@ -54,7 +54,10 @@ There is no technical support for setup or anything else.
 
 The application is delivered "as is" and if you are not happy with the use - there will be no refund.
 
-Cost: `5$ / month`
+Cost:
+
+-   `24h free period`
+-   `5$ / month, unlimited captchas`
 
 Payment: `USDT (TRX/BSC)`
 

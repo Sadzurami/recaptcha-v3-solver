@@ -50,22 +50,8 @@ To work with existing applications you need to replace API link of one of the ab
 
 ## Other
 
-This is a paid app. You can access it using the contacts below.
+Free for a limited time.
 
-The functionality is guaranteed for the duration of the paid period.
+`There is no technical support for setup or anything else.`
 
-There is no technical support for setup or anything else.
-
-The application is delivered "as is" and if you are not happy with the use - there will be no refund.
-
-Cost:
-
--   `24h free period`
--   `5$ / month, unlimited captchas`
-
-Payment: `USDT (TRX/BSC)`
-
-Contacts
-
--   https://t.me/sadzurami
--   mail.to.sadzurami@gmail.com
+The application is delivered "as is" and if you are not happy with the use - ignore app.

@@ -1,5 +1,7 @@
 # ReCaptcha V3 Solver
 
+# !NOT SUPPORTED ANYMORE!
+
 Fastest, cheapest and highest quality ReCaptcha V3 solver.
 
 Please ignore this app if you don't need it, or if you are satisfied with the results of the services, or the results of another similar apps.
